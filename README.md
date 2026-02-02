@@ -1,4 +1,4 @@
-# 2026MCM-A: Smartphone Battery Life Modeling and Analysis
+# 2026MCM-A: State of Charge Model: Who Steals Our Energy?
 
 Users are constantly plagued by the unpredictability of smartphone battery life: the same device might last a full day one time, yet run out before lunchtime the next. To better understand these fluctuations, we built a **continuous-time, temperature-coupled State of Charge (SOC) framework** based on publicly available smartphone test datasets. This framework analyzes how the screen, CPU, wireless networks (Wi-Fi/4G/5G), GPS, background services, and ambient temperature drive SOC changes across different usage scenarios.
 
