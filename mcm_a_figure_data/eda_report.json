@@ -1,0 +1,48 @@
+{
+  "n_rows": 1440,
+  "columns": [
+    "time_s",
+    "soc",
+    "temp_c",
+    "temp_opt_c",
+    "brightness",
+    "screen_on",
+    "cpu_util",
+    "net_mode",
+    "gps_on",
+    "bg_intensity",
+    "bg_on",
+    "P_obs_W"
+  ],
+  "net_mode_counts": {
+    "wifi": 919,
+    "4g": 456,
+    "5g": 65
+  },
+  "P_obs_W_summary": {
+    "count": 1440.0,
+    "mean": 0.6044536849732562,
+    "std": 0.2935032255617063,
+    "min": 0.21136625,
+    "1%": 0.2318726353848606,
+    "5%": 0.2575009486942915,
+    "50%": 0.5399307437873615,
+    "95%": 1.1798311540934476,
+    "99%": 1.550353504065243,
+    "max": 1.8230252259314936
+  },
+  "missing_ratio": {
+    "time_s": 0.0,
+    "soc": 0.0,
+    "temp_c": 0.0,
+    "temp_opt_c": 0.0,
+    "brightness": 0.0,
+    "screen_on": 0.0,
+    "cpu_util": 0.0,
+    "net_mode": 0.0,
+    "gps_on": 0.0,
+    "bg_intensity": 0.0,
+    "bg_on": 0.0,
+    "P_obs_W": 0.0
+  }
+}
